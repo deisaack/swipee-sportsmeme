@@ -1,0 +1,17 @@
+body {
+    padding-top: 6.1rem;
+}
+
+.cattegories {
+    color: aliceblue;
+    position: -webkit-sticky; /* Safari */
+}
+
+.swiper-container {
+    height: 34px;
+    color: aliceblue;
+}
+
+.swiper-container a {
+    color: aliceblue;
+}
